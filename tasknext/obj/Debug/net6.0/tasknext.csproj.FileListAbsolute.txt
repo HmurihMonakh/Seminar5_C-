@@ -1,0 +1,15 @@
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\tasknext\bin\Debug\net6.0\tasknext.exe
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\tasknext\bin\Debug\net6.0\tasknext.deps.json
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\tasknext\bin\Debug\net6.0\tasknext.runtimeconfig.json
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\tasknext\bin\Debug\net6.0\tasknext.dll
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\tasknext\bin\Debug\net6.0\tasknext.pdb
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\tasknext\obj\Debug\net6.0\tasknext.csproj.AssemblyReference.cache
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\tasknext\obj\Debug\net6.0\tasknext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\tasknext\obj\Debug\net6.0\tasknext.AssemblyInfoInputs.cache
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\tasknext\obj\Debug\net6.0\tasknext.AssemblyInfo.cs
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\tasknext\obj\Debug\net6.0\tasknext.csproj.CoreCompileInputs.cache
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\tasknext\obj\Debug\net6.0\tasknext.dll
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\tasknext\obj\Debug\net6.0\refint\tasknext.dll
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\tasknext\obj\Debug\net6.0\tasknext.pdb
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\tasknext\obj\Debug\net6.0\tasknext.genruntimeconfig.cache
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\tasknext\obj\Debug\net6.0\ref\tasknext.dll
