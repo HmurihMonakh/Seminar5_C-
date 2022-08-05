@@ -1,0 +1,15 @@
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\taskpogramm\bin\Debug\net6.0\taskpogramm.exe
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\taskpogramm\bin\Debug\net6.0\taskpogramm.deps.json
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\taskpogramm\bin\Debug\net6.0\taskpogramm.runtimeconfig.json
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\taskpogramm\bin\Debug\net6.0\taskpogramm.dll
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\taskpogramm\bin\Debug\net6.0\taskpogramm.pdb
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\taskpogramm\obj\Debug\net6.0\taskpogramm.csproj.AssemblyReference.cache
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\taskpogramm\obj\Debug\net6.0\taskpogramm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\taskpogramm\obj\Debug\net6.0\taskpogramm.AssemblyInfoInputs.cache
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\taskpogramm\obj\Debug\net6.0\taskpogramm.AssemblyInfo.cs
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\taskpogramm\obj\Debug\net6.0\taskpogramm.csproj.CoreCompileInputs.cache
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\taskpogramm\obj\Debug\net6.0\taskpogramm.dll
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\taskpogramm\obj\Debug\net6.0\refint\taskpogramm.dll
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\taskpogramm\obj\Debug\net6.0\taskpogramm.pdb
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\taskpogramm\obj\Debug\net6.0\taskpogramm.genruntimeconfig.cache
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\taskpogramm\obj\Debug\net6.0\ref\taskpogramm.dll
