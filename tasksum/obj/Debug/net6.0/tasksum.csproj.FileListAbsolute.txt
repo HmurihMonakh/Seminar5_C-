@@ -1,0 +1,15 @@
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\tasksum\bin\Debug\net6.0\tasksum.exe
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\tasksum\bin\Debug\net6.0\tasksum.deps.json
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\tasksum\bin\Debug\net6.0\tasksum.runtimeconfig.json
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\tasksum\bin\Debug\net6.0\tasksum.dll
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\tasksum\bin\Debug\net6.0\tasksum.pdb
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\tasksum\obj\Debug\net6.0\tasksum.csproj.AssemblyReference.cache
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\tasksum\obj\Debug\net6.0\tasksum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\tasksum\obj\Debug\net6.0\tasksum.AssemblyInfoInputs.cache
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\tasksum\obj\Debug\net6.0\tasksum.AssemblyInfo.cs
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\tasksum\obj\Debug\net6.0\tasksum.csproj.CoreCompileInputs.cache
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\tasksum\obj\Debug\net6.0\tasksum.dll
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\tasksum\obj\Debug\net6.0\refint\tasksum.dll
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\tasksum\obj\Debug\net6.0\tasksum.pdb
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\tasksum\obj\Debug\net6.0\tasksum.genruntimeconfig.cache
+C:\Users\MAKS\Desktop\учебаGB\Seminar5_C#\tasksum\obj\Debug\net6.0\ref\tasksum.dll
